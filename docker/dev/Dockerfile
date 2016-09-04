@@ -1,5 +1,5 @@
 FROM tzahif1/todobackend-base:latest
-MAINTAINER Tzahi Fridman <tzahi@nurego.com>
+MAINTAINER Tzahi <tzahif1@gmail.com>
 
 # Install dev/build dependencies
 RUN apt-get update && \

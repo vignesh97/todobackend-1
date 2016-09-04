@@ -1,5 +1,5 @@
 FROM tzahif1/todobackend-base:latest
-MAINTAINER Tzahi <tzahif1@gmail.com>
+MAINTAINER MAINTAINER Tzahi <tzahif1@gmail.com>
 
 # Copy application artifacts
 COPY target /wheelhouse
